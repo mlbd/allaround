@@ -1,0 +1,1011 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: All Around\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-27 01:48+0600\n"
+"PO-Revision-Date: 2023-09-27 01:48+0600\n"
+"Last-Translator: \n"
+"Language-Team: עִבְרִית\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? "
+"2 : 3);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: author.php:212 functions.php:1493
+msgid "הוסף לעגלה שלך"
+msgstr ""
+
+#: blog-item.php:14
+msgid "ידי לע םסרופ:"
+msgstr "פורסם על ידי:"
+
+#: blog-template.php:35
+msgid "All"
+msgstr "הכל"
+
+#: blog-template.php:63 functions.php:970 includes/classes/class-ajax.php:286
+#: template-reviews.php:89
+msgid "Sorry, no review found."
+msgstr "מצטער, לא נמצאה ביקורת."
+
+#: blog-template.php:77 includes/classes/class-ajax.php:296
+#: template-reviews.php:104 uses-template.php:81
+msgid "Previous"
+msgstr "הקודם"
+
+#: blog-template.php:78 includes/classes/class-ajax.php:297
+#: template-reviews.php:105 uses-template.php:82
+msgid "Next"
+msgstr "הבא"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One Response"
+msgstr "תגובה אחת"
+
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Response"
+msgid_plural "%1$s Responses"
+msgstr[0] "תגובה אחת"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "תגובות סגורות."
+
+#: functions.php:36 includes/settings/settings-header.php:23
+#: includes/settings/settings-header.php:43
+msgid "Header"
+msgstr "כותרת"
+
+#: functions.php:37 includes/settings/settings-footer.php:21
+#: includes/settings/settings-footer.php:42
+msgid "Footer"
+msgstr "פוטר"
+
+#: functions.php:178
+msgid "Saving"
+msgstr "שומר"
+
+#: functions.php:179
+msgid "Can't be less then"
+msgstr "כמות מינימלית לרכישה:"
+
+#: functions.php:180
+msgid "This field is required"
+msgstr "שדה זה חובה"
+
+#: functions.php:181
+msgid "Can't be more then"
+msgstr "כמות מקסימלית לרכישה:"
+
+#: functions.php:182 functions.php:1377
+msgid "Custom Quantity"
+msgstr "כמות אחרת"
+
+#: functions.php:310 functions.php:329
+msgid "Choose an option"
+msgstr "בחר אפשרות"
+
+#: functions.php:588
+msgid "Save Percentage Info"
+msgstr "אחוז שמירה ( מספר בלבד )"
+
+#: functions.php:692
+msgid "Next: upload artwork"
+msgstr "הבא: העלאת גרפיקה"
+
+#: functions.php:912
+msgid "םישמתשמ בושמ"
+msgstr "ביקורת משתמשים"
+
+#: functions.php:928 includes/classes/class-ajax.php:69
+msgid "Anonymous"
+msgstr "אנונימי"
+
+#: functions.php:1183
+msgid "הקובץ הועלה בהצלחה!"
+msgstr "הקובץ הועלה בהצלחה!"
+
+#: functions.php:1200 functions.php:1222 functions.php:1245 functions.php:1248
+#: includes/settings/settings-footer.php:391
+#: includes/settings/settings-header.php:444
+#: woocommerce/cart/cart-item-data.php:31
+msgid "Color"
+msgstr "צבע"
+
+#: functions.php:1206 functions.php:1251 woocommerce/cart/cart-item-data.php:29
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "Size"
+msgstr "מידה"
+
+#: functions.php:1262
+msgid "Art Position"
+msgstr "מיקום אמנותי"
+
+#: functions.php:1275
+msgid "Attachment"
+msgstr "קובץ מצורף"
+
+#: functions.php:1287
+msgid "Additional Attachment"
+msgstr "קובץ מצורף"
+
+#: functions.php:1292
+msgid "Instruction Note"
+msgstr "הערת הוראה"
+
+#: functions.php:1345
+msgid "Select a Color"
+msgstr "בחר צבע"
+
+#: functions.php:1371 woocommerce/single-product/add-to-cart/variable.php:46
+msgid "Select a Quantity"
+msgstr "בחירת כמות (מחיר כולל מע\"מ)"
+
+#: functions.php:1429 includes/classes/class-ajax.php:117
+msgid "Shirt"
+msgstr "חולצה"
+
+#: functions.php:1430 includes/classes/class-ajax.php:118
+msgid "Total Shirts"
+msgstr "סה\"כ חוות דעת"
+
+#: functions.php:1512
+msgid "Adult Size Chart"
+msgstr ""
+
+#: functions.php:1515
+msgid "Children Size Chart"
+msgstr ""
+
+#: functions.php:1538
+msgid "Select sizes"
+msgstr "בחירת מידה"
+
+#: functions.php:1550
+msgid "מבוגרים"
+msgstr ""
+
+#: functions.php:1564
+msgid "ילדים"
+msgstr ""
+
+#: functions.php:1580
+msgid "Select Color"
+msgstr "בחר צבע"
+
+#: functions.php:1593
+msgid "בחר גדלים וכמות"
+msgstr ""
+
+#: functions.php:1594 functions.php:1709
+msgid "התמחור שלנו"
+msgstr ""
+
+#: functions.php:1601 functions.php:1712
+msgid "0"
+msgstr ""
+
+#: functions.php:1699
+msgid "Add"
+msgstr ""
+
+#: functions.php:1699
+msgid "more items to reduce your cost to"
+msgstr ""
+
+#: functions.php:1699
+msgid "per item"
+msgstr ""
+
+#: functions.php:1703
+#, fuzzy
+#| msgid "Can't be more then"
+msgid "Can't order more than 999"
+msgstr "כמות מקסימלית לרכישה:"
+
+#: functions.php:1891 functions.php:1897
+msgid "הוסף להזמנה"
+msgstr ""
+
+#: functions.php:2010 template-parts/dynamic-footer.php:33
+#: template-parts/dynamic-header.php:36 template-parts/header.php:28
+msgid "Home"
+msgstr "דף הבית"
+
+#: functions.php:2308
+msgid "חפשו פה…"
+msgstr ""
+
+#: functions.php:2337 search-page.php:53
+#, fuzzy
+#| msgid "Product"
+msgid "No Products"
+msgstr "מוצר"
+
+#: includes/admin-functions.php:38
+msgid ""
+"Hello theme is a lightweight starter theme designed to work perfectly with "
+"Elementor Page Builder plugin."
+msgstr ""
+"ערכת הנושא Hello היא ערכת נושא למתחילים קלת משקל המיועדת לעבוד בצורה מושלמת "
+"עם תוסף Elementor Page Builder."
+
+#: includes/admin-functions.php:40 includes/customizer/elementor-upsell.php:65
+#: includes/customizer/elementor-upsell.php:68
+msgid "Activate Elementor"
+msgstr "הפעילי את Elementor"
+
+#: includes/admin-functions.php:47
+msgid ""
+"Hello theme is a lightweight starter theme. We recommend you use it together "
+"with Elementor Page Builder plugin, they work perfectly together!"
+msgstr ""
+"ערכת הנושא Hello היא נושא למתחילים קל משקל. אנו ממליצים לך להשתמש בו יחד עם "
+"תוסף בונה דפים אלמנטור, הם עובדים בצורה מושלמת יחד!"
+
+#: includes/admin-functions.php:49 includes/customizer/elementor-upsell.php:48
+msgid "Install Elementor"
+msgstr "התקיני Elementor"
+
+#: includes/admin-functions.php:136
+msgid "Get Elementor"
+msgstr "קבל אלמנטור"
+
+#: includes/admin-functions.php:140
+msgid "Thanks for installing Hello Theme!"
+msgstr "תודה שהתקנת את Hello Theme!"
+
+#: includes/admin-functions.php:142
+msgid "Learn more about Elementor"
+msgstr "קבל מידע נוסף על אלמנטור"
+
+#: includes/classes/class-ajax.php:185
+msgid "Sorry, we didn't find any products."
+msgstr "מצטער, לא מצאנו מוצרים."
+
+#: includes/classes/class-ajax.php:186
+msgid "Show all Products"
+msgstr "הצג את כל המוצרים"
+
+#: includes/classes/class-ajax.php:384
+msgid "There is no error, the file uploaded with success"
+msgstr "אין שגיאה, הקובץ הועלה בהצלחה"
+
+#: includes/classes/class-ajax.php:385
+msgid "The uploaded file exceeds the upload_max_files in server settings"
+msgstr "הקובץ שהועלה חורג upload_max_files בהגדרות השרת"
+
+#: includes/classes/class-ajax.php:386
+msgid "The uploaded file exceeds the MAX_FILE_SIZE from html form"
+msgstr "הקובץ שהועלה חורג MAX_FILE_SIZE מטופס HTML"
+
+#: includes/classes/class-ajax.php:387
+msgid "The uploaded file uploaded only partially"
+msgstr "הקובץ שהועלה הועלה באופן חלקי בלבד"
+
+#: includes/classes/class-ajax.php:388
+msgid "No file was uploaded"
+msgstr "לא הועלה קובץ"
+
+#: includes/classes/class-ajax.php:389
+msgid "Missing a temporary folder"
+msgstr "חסרה תיקיה זמנית"
+
+#: includes/classes/class-ajax.php:390
+msgid "Failed to write file to disk"
+msgstr "נכשלה בכתיבת קובץ בדיסק"
+
+#: includes/classes/class-ajax.php:391
+msgid "A PHP extension stoped file to upload"
+msgstr "סיומת PHP עצרה קובץ להעלאה"
+
+#: includes/classes/class-ajax.php:419
+msgid "Wrong file format! please upload image type file only."
+msgstr "תבנית קובץ שגויה! נא העלה קובץ סוג תמונה בלבד."
+
+#: includes/customizer-functions.php:19
+msgid "Header &amp; Footer"
+msgstr "כותרת עליונה וכותרת תחתונה"
+
+#: includes/customizer/elementor-upsell.php:49
+#: includes/customizer/elementor-upsell.php:66
+msgid "Create a cross-site Header and Footer using Elementor & Hello theme"
+msgstr ""
+"יצירת כותרת עליונה וכותרת תחתונה בין אתרים באמצעות ערכת הנושא Elementor "
+"&Hello"
+
+#: includes/customizer/elementor-upsell.php:60
+msgid "Install &amp; Activate"
+msgstr "התקן והפעל"
+
+#: includes/customizer/elementor-upsell.php:73
+#: includes/customizer/elementor-upsell.php:76
+msgid "Update Elementor"
+msgstr "עדכן רכיב"
+
+#: includes/customizer/elementor-upsell.php:74
+msgid ""
+"You need Elementor version 3.1.0 or above to create a cross-site Header and "
+"Footer."
+msgstr ""
+"דרושה לך גירסה 3.1.0 ומעלה כדי ליצור כותרת עליונה וכותרת תחתונה בין אתרים."
+
+#: includes/customizer/elementor-upsell.php:81
+msgid "Set Your Header &amp; Footer"
+msgstr "הגדרת הכותרת העליונה והכותרת התחתונה שלך"
+
+#: includes/customizer/elementor-upsell.php:82
+msgid "Create cross-site Header and Footer using Elementor & Hello theme"
+msgstr ""
+"יצירת כותרת עליונה וכותרת תחתונה בין אתרים באמצעות ערכת הנושא Elementor "
+"&Hello"
+
+#: includes/customizer/elementor-upsell.php:84
+msgid "Start Here"
+msgstr "התחל כאן"
+
+#: includes/elementor-functions.php:207
+msgid "Hello Theme Header & Footer"
+msgstr "שלום כותרת עליונה וכותרת תחתונה של ערכת נושא"
+
+#: includes/elementor-functions.php:208
+#, php-format
+msgid ""
+"Use this experiment to design header and footer using Elementor Site "
+"Settings. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr ""
+"השתמש בניסוי זה כדי לעצב כותרת עליונה וכותרת תחתונה באמצעות הגדרות אתר "
+"Elementor. <a href=\"%s\" target=\"_blank\">למד עוד</a>"
+
+#: includes/settings/settings-footer.php:50
+#: includes/settings/settings-footer.php:195
+#: includes/settings/settings-header.php:51
+#: includes/settings/settings-header.php:191
+msgid "Site Logo"
+msgstr "לוגו האתר"
+
+#: includes/settings/settings-footer.php:52
+#: includes/settings/settings-footer.php:64
+#: includes/settings/settings-footer.php:76
+#: includes/settings/settings-footer.php:88
+#: includes/settings/settings-header.php:53
+#: includes/settings/settings-header.php:64
+#: includes/settings/settings-header.php:75 single-project.php:38 single.php:47
+msgid "Show"
+msgstr "הצג"
+
+#: includes/settings/settings-footer.php:53
+#: includes/settings/settings-footer.php:65
+#: includes/settings/settings-footer.php:77
+#: includes/settings/settings-footer.php:89
+#: includes/settings/settings-header.php:54
+#: includes/settings/settings-header.php:65
+#: includes/settings/settings-header.php:76
+msgid "Hide"
+msgstr "הסתר"
+
+#: includes/settings/settings-footer.php:62
+#: includes/settings/settings-footer.php:295
+#: includes/settings/settings-header.php:62
+#: includes/settings/settings-header.php:298
+msgid "Tagline"
+msgstr "שורת התג"
+
+#: includes/settings/settings-footer.php:74
+#: includes/settings/settings-footer.php:343
+#: includes/settings/settings-footer.php:371
+#: includes/settings/settings-header.php:73
+#: includes/settings/settings-header.php:353
+#: includes/settings/settings-header.php:388
+msgid "Menu"
+msgstr "תפריט"
+
+#: includes/settings/settings-footer.php:86
+#: includes/settings/settings-footer.php:415
+msgid "Copyright"
+msgstr "זכויות יוצרים"
+
+#: includes/settings/settings-footer.php:98
+#: includes/settings/settings-header.php:84
+msgid "Layout"
+msgstr "פריסה"
+
+#: includes/settings/settings-footer.php:100
+#: includes/settings/settings-header.php:86
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: includes/settings/settings-footer.php:101
+#: includes/settings/settings-header.php:87
+msgid "Inverted"
+msgstr "הפוך"
+
+#: includes/settings/settings-footer.php:102
+#: includes/settings/settings-header.php:88
+msgid "Centered"
+msgstr "ממורכז"
+
+#: includes/settings/settings-footer.php:113
+#: includes/settings/settings-header.php:99
+msgid "Width"
+msgstr "רוחב"
+
+#: includes/settings/settings-footer.php:115
+#: includes/settings/settings-header.php:101
+msgid "Boxed"
+msgstr "פריסת \"קופסה\" רוחב מוגדר"
+
+#: includes/settings/settings-footer.php:116
+#: includes/settings/settings-header.php:102
+msgid "Full Width"
+msgstr "רוחב מלא"
+
+#: includes/settings/settings-footer.php:127
+#: includes/settings/settings-header.php:113
+msgid "Content Width"
+msgstr "רוחב התוכן"
+
+#: includes/settings/settings-footer.php:155
+#: includes/settings/settings-header.php:141
+msgid "Gap"
+msgstr "הפסקה"
+
+#: includes/settings/settings-footer.php:183
+#: includes/settings/settings-header.php:179
+msgid "Background"
+msgstr "רקע"
+
+#: includes/settings/settings-footer.php:205
+#: includes/settings/settings-header.php:208
+msgid "Type"
+msgstr "סוג"
+
+#: includes/settings/settings-footer.php:209
+#: includes/settings/settings-header.php:212
+msgid "Logo"
+msgstr "לוגו"
+
+#: includes/settings/settings-footer.php:210
+#: includes/settings/settings-header.php:213
+msgid "Title"
+msgstr "כותרת"
+
+#: includes/settings/settings-footer.php:220
+#: includes/settings/settings-header.php:223
+msgid "Logo Width"
+msgstr "רוחב הלוגו"
+
+#: includes/settings/settings-footer.php:221
+#: includes/settings/settings-header.php:224
+#, php-format
+msgid "Go to <a href=\"%s\">Site Identity</a> to manage your site's logo"
+msgstr "עבור אל <a href=\"%s\">זהות האתר</a> כדי לנהל את סמל האתר שלך"
+
+#: includes/settings/settings-footer.php:250
+#: includes/settings/settings-footer.php:305
+#: includes/settings/settings-footer.php:440
+#: includes/settings/settings-header.php:253
+#: includes/settings/settings-header.php:315
+msgid "Text Color"
+msgstr "צבע טקסט"
+
+#: includes/settings/settings-footer.php:266
+#: includes/settings/settings-footer.php:320
+#: includes/settings/settings-footer.php:403
+#: includes/settings/settings-footer.php:455
+#: includes/settings/settings-header.php:269
+#: includes/settings/settings-header.php:330
+#: includes/settings/settings-header.php:473
+msgid "Typography"
+msgstr "טיפוגרפיה"
+
+#: includes/settings/settings-footer.php:280
+#: includes/settings/settings-footer.php:332
+#: includes/settings/settings-header.php:270
+#: includes/settings/settings-header.php:283
+#: includes/settings/settings-header.php:342
+#, php-format
+msgid ""
+"Go to <a href=\"%s\">Site Identity</a> to manage your site's title and "
+"tagline"
+msgstr ""
+"עבור אל <a href=\"%s\">זהות האתר</a> כדי לנהל את כותרת האתר ואת שורת התיוגים "
+"שלך"
+
+#: includes/settings/settings-footer.php:352
+#: includes/settings/settings-header.php:369
+msgid "— Select a Menu —"
+msgstr "— בחר תפריט —"
+
+#: includes/settings/settings-footer.php:362
+#: includes/settings/settings-header.php:379
+msgid "There are no menus in your site."
+msgstr "אין תפריטים באתר שלך."
+
+#: includes/settings/settings-footer.php:362
+#: includes/settings/settings-header.php:379
+#, php-format
+msgid "Go to <a href=\"%s\" target=\"_blank\">Menus screen</a> to create one."
+msgstr ""
+"עבור אל <a href=\"%s\" target=\"_blank\">מסך תפריטים</a> כדי ליצור מסך כזה."
+
+#: includes/settings/settings-footer.php:375
+#: includes/settings/settings-header.php:392
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\">Menus screen</a> to manage your "
+"menus."
+msgstr ""
+"עבור אל <a href=\"%s\" target=\"_blank\">המסך תפריטים</a> כדי לנהל את "
+"התפריטים שלך."
+
+#: includes/settings/settings-footer.php:383
+#: includes/settings/settings-header.php:400
+msgid "Changes will be reflected in the preview only after the page reloads."
+msgstr "שינויים ישתקפו בתצוגה המקדימה רק לאחר טעינת העמוד מחדש."
+
+#: includes/settings/settings-footer.php:433
+msgid "All rights reserved"
+msgstr "כל הזכויות שמורות"
+
+#: includes/settings/settings-footer.php:488
+msgid "Create a custom footer with multiple options"
+msgstr "יצירת כותרת תחתונה מותאמת אישית עם אפשרויות מרובות"
+
+#: includes/settings/settings-footer.php:489
+#: includes/settings/settings-header.php:508
+msgid "Upgrade to Elementor Pro and enjoy free design and many more features"
+msgstr "שדרג ל-Elementor Pro ותיהנה מעיצוב חינמי ומתכונות רבות נוספות"
+
+#: includes/settings/settings-footer.php:490
+#: includes/settings/settings-header.php:509
+msgid "Go Pro"
+msgstr "שידרוג לפרו"
+
+#: includes/settings/settings-footer.php:504
+msgid "Create a custom footer with the new Theme Builder"
+msgstr "יצירת כותרת תחתונה מותאמת אישית עם בונה ערכות הנושא החדש"
+
+#: includes/settings/settings-footer.php:505
+#: includes/settings/settings-header.php:524
+msgid ""
+"With the new Theme Builder you can jump directly into each part of your site"
+msgstr "עם בונה ערכות הנושא החדש אתה יכול לקפוץ ישירות לכל חלק של האתר שלך"
+
+#: includes/settings/settings-footer.php:506
+msgid "Create Footer"
+msgstr "צור כותרת תחתונה"
+
+#: includes/settings/settings-header.php:408
+msgid "Menu Layout"
+msgstr "פריסת תפריט"
+
+#: includes/settings/settings-header.php:412
+msgid "Horizontal"
+msgstr "אופקי"
+
+#: includes/settings/settings-header.php:413
+msgid "Dropdown"
+msgstr "רשימה נפתחת"
+
+#: includes/settings/settings-header.php:424
+msgid "Breakpoint"
+msgstr "נקודת עצירה"
+
+#. translators: %d: Breakpoint number.
+#: includes/settings/settings-header.php:429
+#, php-format
+msgid "Mobile (< %dpx)"
+msgstr "נייד (< %dpx)"
+
+#. translators: %d: Breakpoint number.
+#: includes/settings/settings-header.php:431
+#, php-format
+msgid "Tablet (< %dpx)"
+msgstr "מחשב לוח (< %dpx)"
+
+#: includes/settings/settings-header.php:432
+msgid "None"
+msgstr "ללא"
+
+#: includes/settings/settings-header.php:458
+msgid "Toggle Color"
+msgstr "החלף מצב צבע"
+
+#: includes/settings/settings-header.php:507
+msgid "Create a custom header with multiple options"
+msgstr "יצירת כותרת מותאמת אישית עם אפשרויות מרובות"
+
+#: includes/settings/settings-header.php:523
+msgid "Create a custom header with the new Theme Builder"
+msgstr "יצירת כותרת מותאמת אישית עם בונה ערכות הנושא החדש"
+
+#: includes/settings/settings-header.php:525
+msgid "Create Header"
+msgstr "צור כותרת עליונה"
+
+#: product-configure.php:14
+msgid "ךלש תונמאה תוריצי תא הלעה"
+msgstr "העלו את הקובץ שתרצו שנדפיס על המוצר"
+
+#: product-configure.php:15
+msgid "רושיאל הימדה ךל חלשנ הספדהל רבעמה ינפל"
+msgstr "לאחר ביצוע ההזמנה, ועד 24 שעות, תישלח אליך הדמיה לאימייל :) "
+
+#: product-configure.php:21 product-configure.php:38
+msgid "ץבוק רחב"
+msgstr "בחר קובץ"
+
+#: product-configure.php:32
+msgid "Click to upload additional file"
+msgstr "לחץ כדי להעלות קובץ נוסף"
+
+#: product-configure.php:94
+msgid "הכרדה"
+msgstr "הערות להזמנה"
+
+#: product-configure.php:94
+msgid "ילנויצפוא"
+msgstr "אופציונלי"
+
+#: product-configure.php:95
+msgid "ךלש היחנהה תא בותכ"
+msgstr "כל הערה שתרצו להוסיף לגבי ההזמנה..."
+
+#: product-configure.php:101
+msgid "or,"
+msgstr "או"
+
+#: product-configure.php:101
+msgid "skip this step & email artwork later."
+msgstr "דלגו על שלב זה ושלחו את הקובץ לאחר ההזמנה."
+
+#: product-configure.php:103
+msgid "ךיִׁשמַהְל"
+msgstr "לשלב הבא"
+
+#: projects-template.php:62 uses-template.php:68
+msgid "Sorry, no project found."
+msgstr "מצטער, לא נמצא פרויקט."
+
+#: single-project.php:24 single-project.php:43
+#, fuzzy
+#| msgid "Back to blog"
+msgid "Back to Projects"
+msgstr "חזרה לבלוג"
+
+#: single-project.php:26 single.php:35
+msgid "Posted by"
+msgstr "פורסם על ידי"
+
+#: single.php:29 single.php:54
+msgid "Back to blog"
+msgstr "חזרה לבלוג"
+
+#: taxonomy-product_cat.php:21 woocommerce/content-single-product.php:63
+msgid "Reviews"
+msgstr "חוות דעת"
+
+#: taxonomy-product_cat.php:31
+msgid "All product Categories"
+msgstr "כל קטגוריות המוצרים"
+
+#: template-parts/404.php:15
+msgid "The page can&rsquo;t be found."
+msgstr "לא ניתן למצוא את הדף."
+
+#: template-parts/404.php:19
+msgid "It looks like nothing was found at this location."
+msgstr "נראה כאילו שום דבר לא נמצא במיקום הזה."
+
+#: template-parts/archive.php:46 template-parts/search.php:44
+#, php-format
+msgid "%s older"
+msgstr "%s מבוגר יותר"
+
+#: template-parts/archive.php:48 template-parts/search.php:46
+#, php-format
+msgid "newer %s"
+msgstr "%s חדשים יותר"
+
+#: template-parts/search.php:16
+msgid "Search results for: "
+msgstr "תוצאות חיפוש עבור: "
+
+#: template-parts/search.php:32
+msgid "It seems we can't find what you're looking for."
+msgstr "נראה שאנחנו לא יכולים למצוא את מה שאתה מחפש."
+
+#: template-parts/single.php:26
+msgid "Tagged "
+msgstr "תויג "
+
+#: template-reviews.php:38
+msgid "Total Reviews"
+msgstr "סה\"כ חוות דעת"
+
+#: template-reviews.php:56
+msgid "anonymous"
+msgstr "אלמוני"
+
+#: templates/mobile-login-woocommerce/xoo-ml-external-otp-form.php:45
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:49
+msgid "Welcome"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-external-otp-form.php:50
+msgid "Change"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-external-otp-form.php:70
+msgid "Verify"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-external-otp-form.php:73
+msgid "Not received your code? Resend code"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:26
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:68
+msgid "Or"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:28
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:65
+msgid "Login with OTP"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-otp-login-form.php:70
+msgid "Login with Email & Password"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-phone-input.php:45
+#, fuzzy
+#| msgid "Select Color"
+msgid "Select Country Code"
+msgstr "בחר צבע"
+
+#: templates/mobile-login-woocommerce/xoo-ml-phone-input.php:59
+msgid "Country Code"
+msgstr ""
+
+#: templates/mobile-login-woocommerce/xoo-ml-phone-input.php:89
+msgid "Change?"
+msgstr ""
+
+#: uses-template.php:23
+msgid "ונלש רצומה תא שפח"
+msgstr "חפש את המוצר שלנו"
+
+#: woocommerce/cart/cart-item-data.php:27 woocommerce/cart/cart.php:32
+#: woocommerce/cart/cart.php:88
+#: woocommerce/single-product/add-to-cart/variable.php:33
+msgid "Quantity"
+msgstr "כמות"
+
+#: woocommerce/cart/cart-shipping.php:51
+#, fuzzy, php-format
+#| msgid "Shipping"
+msgid "Shipping to %s."
+msgstr "משלוח"
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:62
+msgid "Shipping costs are calculated during checkout."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:64
+msgid "Enter your address to view shipping options."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:70
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:71
+msgid "Enter a different address"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:45
+msgid "חולשמ תוטיש"
+msgstr "שיטות משלוח"
+
+#: woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr "משלוח"
+
+#. translators: %s location.
+#: woocommerce/cart/cart-totals.php:65
+#, php-format
+msgid "(estimated for %s)"
+msgstr "(מוערך עבור: %s)"
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:62
+msgid "Product"
+msgstr "מוצר"
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:82
+msgid "Price"
+msgstr "מחיר"
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:111
+msgid "Subtotal"
+msgstr "סה\"כ"
+
+#: woocommerce/cart/cart.php:77
+msgid "Available on backorder"
+msgstr "זמין בהזמנה מראש"
+
+#: woocommerce/cart/cart.php:124
+msgid "Remove this item"
+msgstr "הסר פריט זה"
+
+#: woocommerce/cart/cart.php:145
+msgid "Coupon:"
+msgstr "קופון:"
+
+#: woocommerce/cart/cart.php:145
+msgid "Coupon code"
+msgstr "קוד קופון"
+
+#: woocommerce/cart/cart.php:145
+msgid "Apply coupon"
+msgstr "ממש קופון"
+
+#: woocommerce/cart/cart.php:150
+msgid "Update cart"
+msgstr "עדכן עגלה"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:24
+msgid "םייניב םוכס"
+msgstr "סכום ביניים"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "קודבל"
+msgstr "לתשלום"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:28
+msgid "תוינק ךשמה"
+msgstr "המשך קניות"
+
+#: woocommerce/cart/proceed-to-checkout-button.php:30
+msgid "םילבקמ ונחנא"
+msgstr "אפשרויות תשלום"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "עליך להתחבר על מנת לשלם."
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr "ההזמנה שלך"
+
+#: woocommerce/checkout/review-order.php:92
+msgid "Total"
+msgstr "סה\"כ"
+
+#: woocommerce/content-single-product.php:73
+msgid "Order Sample"
+msgstr "דוגמה להזמנה"
+
+#: woocommerce/single-product/add-to-cart/variable.php:36
+msgid "This product is currently out of stock and unavailable."
+msgstr "מוצר זה חסר כרגע במלאי."
+
+#: woocommerce/single-product/add-to-cart/variable.php:44
+msgid "Select a Size"
+msgstr "בחירת מידה"
+
+#: woocommerce/single-product/add-to-cart/variable.php:60
+msgid "Clear"
+msgstr "נקה"
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr "מומלצים עבורך"
+
+#. Theme Name of the plugin/theme
+msgid "All Around"
+msgstr "מסביב"
+
+#. Description of the plugin/theme
+msgid "A plain-vanilla & lightweight theme for Elementor page builder"
+msgstr "ערכת נושא פשוטה וקלת משקל עבור בונה העמודים Elementor"
+
+#. Author of the plugin/theme
+msgid "Mohammad Limon"
+msgstr "מוחמד לימון"
+
+#. Author URI of the plugin/theme
+msgid "https://elementor.com/"
+msgstr "‫https://elementor.com/"
+
+#. Template Name of the plugin/theme
+msgid "Blog Tempalte"
+msgstr "Blog Tempalte"
+
+#. Template Name of the plugin/theme
+msgid "Project Template"
+msgstr "תבנית פרוייקט"
+
+#. Template Name of the plugin/theme
+#, fuzzy
+#| msgid "Project Template"
+msgid "Search Page Template"
+msgstr "תבנית פרוייקט"
+
+#. Template Name of the plugin/theme
+msgid "Reviews Template"
+msgstr "תבנית ביקורות"
+
+#. Template Name of the plugin/theme
+msgid "Uses Template"
+msgstr "שימוש בתבנית"
+
+#, fuzzy
+#~| msgid "Select sizes"
+#~ msgid "Select Options"
+#~ msgstr "בחירת מידה"
+
+#~ msgid "1"
+#~ msgstr "1"
+
+#~ msgid "size guide"
+#~ msgstr "מדריך גודל"
+
+#~ msgid "Chest"
+#~ msgstr "חזה"
+
+#~ msgid "Length"
+#~ msgstr "אורך"
+
+#~ msgid "All tees come in unisex sizing."
+#~ msgstr "כל טיז מגיעים בגודל יוניסקס."
+
+#~ msgid "Like this post? Subscribe via"
+#~ msgstr "אוהב את הפוסט הזה? הירשם כמנוי דרך"
+
+#~ msgid "Twitter"
+#~ msgstr "טוויטר"
+
+#~ msgid "or"
+#~ msgstr "או"
+
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgid "וא"
+#~ msgstr "או"
